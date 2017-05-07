@@ -1,0 +1,14 @@
+{
+  "name": "handle-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnold Agus",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.49.0"
+  }
+}

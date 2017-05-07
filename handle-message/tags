@@ -1,0 +1,11 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+body	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^        body: '',$/;"	p	language:JavaScript	class:const
+createBucket	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^function createBucket(bucketParams) {$/;"	f	language:JavaScript
+deleteObject	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^function deleteObject(params) {$/;"	f	language:JavaScript
+generateResponse	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^function generateResponse(err) {$/;"	f	language:JavaScript
+generateSentimentModel	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^function generateSentimentModel(details) {$/;"	f	language:JavaScript
+getSentiment	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^function getSentiment(bucketParams) {$/;"	f	language:JavaScript
+handleResponse	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^function handleResponse(details) {$/;"	f	language:JavaScript
+headers	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^        headers: {$/;"	p	language:JavaScript	class:const
+statusCode	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^        statusCode: '200',$/;"	p	language:JavaScript	class:const
+uploadObject	/home/karnold/Code/aws/sentimental-bot/handle-message/handler.js	/^function uploadObject(uploadParams) {$/;"	f	language:JavaScript
